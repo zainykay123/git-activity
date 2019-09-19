@@ -9,9 +9,14 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
     
-    
- *Xavier Greene (student)
-   *email:greenex@kean.edu
-   *website:------------------------
-    
+ * Xavier Greene
+   * Email:greenex@kean.edu
+   * Website:
+
+* Sunny Patel
+    * Email: patelsu1@kean.edu
+    * Website:
    
+ * Reynold Beaton
+    * Email: beatonre@kean.edu
+    
