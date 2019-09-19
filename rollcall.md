@@ -14,5 +14,5 @@ Name, Email, and Website URL
     * Website:
    
  * Reynold Beaton
-    Email: beatonre@kean.edu
+    * Email: beatonre@kean.edu
     
