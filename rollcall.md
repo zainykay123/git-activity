@@ -10,3 +10,5 @@ Name, Email, and Website URL
     * Website:  https://tech3500.githb.io/fall2019
     
    
+Email: ikurekoe@kean.edu
+Website:https://eve.kean.edu/~
