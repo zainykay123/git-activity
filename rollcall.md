@@ -9,4 +9,7 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
     
+    Reynold Beaton (student)
+    email: beatonre@kean.edu
+    
    
