@@ -9,9 +9,9 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
  
-Charles Conego(student)
-Email: conegoc@kean.edu
-
+ * Charles Conego
+    * Email: conegoc@kean.edu
+    * Website: 
     
  * Xavier Greene
    * Email:greenex@kean.edu
@@ -23,4 +23,7 @@ Email: conegoc@kean.edu
    
  * Reynold Beaton
     * Email: beatonre@kean.edu
+    * Website: 
     
+
+
