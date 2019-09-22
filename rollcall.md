@@ -11,4 +11,4 @@ Name, Email, and Website URL
     
    
 Email: ikurekoe@kean.edu
-Website:https://eve.kean.edu/~
+Website:https://eve.kean.edu/~ikurekoe/public_html/TECH3500/leadershippage.html
