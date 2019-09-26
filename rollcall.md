@@ -30,6 +30,10 @@ Name, Email, and Website URL
     * Email: patelsu1@kean.edu
     * Website:
    
+* Edem Ikurekong
+    * Email: ikurekoe@kean.edu
+    * Website: https://eve.kean.edu/~ikurekoe/public_html/TECH3500/leadershippage.html
+
  * Reynold Beaton
     * Email: beatonre@kean.edu
     * Website: 
@@ -45,3 +49,4 @@ Name, Email, and Website URL
 * Christina Bobyack
    * Email: bobyackc@kean.edu
    * Website:
+
