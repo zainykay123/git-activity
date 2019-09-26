@@ -39,6 +39,9 @@ Name, Email, and Website URL
    * Email: paerine@kean.edu
    * Website: 
 
+* Zainy Shafiq
+   *Email: shafiqz@kean.edu
+
 * Christina Bobyack
    * Email: bobyackc@kean.edu
-   *Website:
+   * Website:
