@@ -9,6 +9,11 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
  
+
+* Joseph Conzentino
+     * Email: conzentj@gmail.com
+     * Website: https://eve.kean.edu/~conzentj/public_html/test/
+
  * Charles Conego
     * Email: conegoc@kean.edu
     * Website: 
