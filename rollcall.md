@@ -9,10 +9,20 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
  
+
+* Joseph Conzentino
+     * Email: conzentj@gmail.com
+     * Website: https://eve.kean.edu/~conzentj/public_html/test/
+
  * Charles Conego
     * Email: conegoc@kean.edu
     * Website: 
     
+
+* Mike Potpinka (student)
+   *Email: potpinkm@kean.edu
+   *Website:
+
  * Xavier Greene
    * Email:greenex@kean.edu
    * Website:
@@ -31,4 +41,7 @@ Name, Email, and Website URL
 
 * Zainy Shafiq
    *Email: shafiqz@kean.edu
-   *Website:
+
+* Christina Bobyack
+   * Email: bobyackc@kean.edu
+   * Website:
