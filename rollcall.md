@@ -17,11 +17,10 @@ Name, Email, and Website URL
  * Charles Conego
     * Email: conegoc@kean.edu
     * Website: 
-    
 
 * Mike Potpinka (student)
-   *Email: potpinkm@kean.edu
-   *Website:
+   * Email: potpinkm@kean.edu
+   * Website:
 
  * Xavier Greene
    * Email:greenex@kean.edu
@@ -40,7 +39,8 @@ Name, Email, and Website URL
    * Website: 
 
 * Zainy Shafiq
-   *Email: shafiqz@kean.edu
+   * Email: shafiqz@kean.edu
+   * Website: 
 
 * Christina Bobyack
    * Email: bobyackc@kean.edu
