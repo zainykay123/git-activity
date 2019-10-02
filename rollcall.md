@@ -7,7 +7,7 @@ Name, Email, and Website URL
 -------------------------------------------------
 * Rob Domanski (instructor)
     * Email: rdomansk@kean.edu
-    * Website:  https://tech3500.githb.io/fall2019
+    * Website:  https://tech3500.github.io/fall2019
  
 
 * Joseph Conzentino
