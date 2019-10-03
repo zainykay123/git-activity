@@ -16,7 +16,7 @@ Name, Email, and Website URL
 
 * Mike Potpinka (student)
    *Email: potpinkm@kean.edu
-   *Website:
+   *Website: http://eve.kean.edu/~potpinkm/index.html
 
  * Xavier Greene
    * Email:greenex@kean.edu
