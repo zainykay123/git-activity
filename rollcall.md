@@ -7,16 +7,20 @@ Name, Email, and Website URL
 -------------------------------------------------
 * Rob Domanski (instructor)
     * Email: rdomansk@kean.edu
-    * Website:  https://tech3500.githb.io/fall2019
+    * Website:  https://tech3500.github.io/fall2019
  
+
+* Joseph Conzentino
+     * Email: conzentj@gmail.com
+     * Website: https://eve.kean.edu/~conzentj/public_html/test/
+
  * Charles Conego
     * Email: conegoc@kean.edu
     * Website: 
-    
 
 * Mike Potpinka (student)
-   *Email: potpinkm@kean.edu
-   *Website: http://eve.kean.edu/~potpinkm/index.html
+   * Email: potpinkm@kean.edu
+   * Website: http://eve.kean.edu/~potpinkm/index.html
 
  * Xavier Greene
    * Email:greenex@kean.edu
@@ -26,6 +30,10 @@ Name, Email, and Website URL
     * Email: patelsu1@kean.edu
     * Website:
    
+* Edem Ikurekong
+    * Email: ikurekoe@kean.edu
+    * Website: https://eve.kean.edu/~ikurekoe/public_html/TECH3500/leadershippage.html
+
  * Reynold Beaton
     * Email: beatonre@kean.edu
     * Website: 
@@ -34,6 +42,11 @@ Name, Email, and Website URL
    * Email: paerine@kean.edu
    * Website: 
 
+* Zainy Shafiq
+   * Email: shafiqz@kean.edu
+   * Website: 
+
 * Christina Bobyack
    * Email: bobyackc@kean.edu
-   *Website:
+   * Website: https://eve.kean.edu/~bobyackc/TECH3740/Christina.html
+
