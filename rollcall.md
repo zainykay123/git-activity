@@ -32,7 +32,7 @@ Name, Email, and Website URL
    
 * Edem Ikurekong
     * Email: ikurekoe@kean.edu
-    * Website: https://eve.kean.edu/~ikurekoe/public_html/TECH3500/leadershippage.html
+    * Website: https://eve.kean.edu/~ikurekoe/public_html/TECH3500/index.html
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
