@@ -39,7 +39,7 @@ Name, Email, and Website URL
     * Website: 
  
  * Rinesh Patel
-   * Email: paerine@kean.edu
+   * Email: paterine@kean.edu
    * Website: 
 
 * Zainy Shafiq
