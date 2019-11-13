@@ -18,9 +18,9 @@ Name, Email, and Website URL
     * Email: conegoc@kean.edu
     * Website: 
 
-* Mike Potpinka (student)
+* Mike Potpinka
    * Email: potpinkm@kean.edu
-   * Website: http://eve.kean.edu/~potpinkm/index.html
+   * Website: http://eve.kean.edu/~potpinkm/retail.html
 
  * Xavier Greene
    * Email:greenex@kean.edu
