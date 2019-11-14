@@ -31,9 +31,10 @@ Name, Email, and Website URL
     * Email: patelsu1@kean.edu
     * Website:
    
-* Edem Ikurekong
+* Edem Ikurekong ....
     * Email: ikurekoe@kean.edu
-    * Website: https://eve.kean.edu/~ikurekoe/public_html/TECH3500/leadershippage.html
+    * Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
+     * Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
