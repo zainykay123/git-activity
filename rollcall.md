@@ -9,4 +9,6 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
     
-   
+  
+Reynold Beaton
+website: http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Final_Photos_WebDesign/Silly_Sales.html
