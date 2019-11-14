@@ -45,10 +45,8 @@ Name, Email, and Website URL
 
 * Zainy Shafiq
    * Email: shafiqz@kean.edu
-   * Website: 
-
+   * Website: https://eve.kean.edu/~shafiqz/public_html/WebClientProgramming/bakery.html
 * Christina Bobyack
    * Email: bobyackc@kean.edu
    * Website: https://eve.kean.edu/~bobyackc/TECH3740/Christina.html
 
-Hello world!
