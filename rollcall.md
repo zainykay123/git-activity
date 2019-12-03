@@ -8,7 +8,6 @@ Name, Email, and Website URL
 * Rob Domanski (instructor)
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.github.io/fall2019
- 
 
 * Joseph Conzentino
      * Email: conzentj@kean.edu
@@ -38,7 +37,7 @@ Name, Email, and Website URL
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
-    * Website: 
+    * Website: http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Final_Photos_WebDesign/Silly_Sales.html
  
  * Rinesh Patel
    * Email: paterine@kean.edu
@@ -51,4 +50,3 @@ Name, Email, and Website URL
 * Christina Bobyack
    * Email: bobyackc@kean.edu
    * Website: https://eve.kean.edu/~bobyackc/TECH3740/Christina.html
-
