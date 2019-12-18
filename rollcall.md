@@ -11,7 +11,9 @@ Name, Email, and Website URL
 
 * Joseph Conzentino
      * Email: conzentj@kean.edu
-     * Website: http://eve.kean.edu/~conzentj/project2/start.html
+     * Website1: http://eve.kean.edu/~conzentj/my_website/home.html
+     * Website2: http://eve.kean.edu/~conzentj/project2/start.html
+     * Website3: http://eve.kean.edu/~conzentj/final_project/home.html
 
  * Charles Conego
     * Email: conegoc@kean.edu
