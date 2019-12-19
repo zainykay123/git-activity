@@ -20,7 +20,10 @@ Name, Email, and Website URL
 
 * Mike Potpinka
    * Email: potpinkm@kean.edu
-   * Website: http://eve.kean.edu/~potpinkm/OneStopFitShop.html
+   * Websites:
+   Project 1: http://eve.kean.edu/~potpinkm/
+   Project 2: http://eve.kean.edu/~potpinkm/retail.html
+   Project 3: http://eve.kean.edu/~potpinkm/OneStopFitShop.html
 
  * Xavier Greene
    * Email:greenex@kean.edu
