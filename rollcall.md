@@ -37,7 +37,11 @@ Name, Email, and Website URL
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
-    * Website: http://eve.kean.edu/~beatonre/Final_Project_Web_Design/index.html
+    * Website: 
+    
+    http://eve.kean.edu/~beatonre/Project1/BandPage2.html#ho (WEBSITE 1)
+    http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Shop.html (WEBSITE 2)
+    http://eve.kean.edu/~beatonre/Final_Project_Web_Design/index.html  (WEBSITE 3)
     
     
  
