@@ -39,7 +39,9 @@ Name, Email, and Website URL
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
-    * Website: http://eve.kean.edu/~beatonre/Web_Design_Project_Files/Final_Photos_WebDesign/Silly_Sales.html
+    * Website: http://eve.kean.edu/~beatonre/Final_Project_Web_Design/index.html
+    
+    
  
  * Rinesh Patel
    * Email: paterine@kean.edu
