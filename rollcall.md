@@ -33,10 +33,17 @@ Name, Email, and Website URL
     * Email: patelsu1@kean.edu
     * Website:
    
-* Edem Ikurekong ....
-    * Email: ikurekoe@kean.edu
-    * Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
-     * Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
+
+
+Edem Ikurekong ....
+
+    Email: ikurekoe@kean.edu
+    website: http://eve.kean.edu/~ikurekoe/TECH3500/fincbloodbank/fincbloodbank/home.html
+    Website: https://eve.kean.edu/~ikurekoe/TECH3500/index.html
+    Website: https://eve.kean.edu/~ikurekoe/TECH3500/01_foodee/index.html
+    website:https://eve.kean.edu/~ikurekoe/TECH3500/udiaa/index.html
+
+
 
  * Reynold Beaton
     * Email: beatonre@kean.edu
