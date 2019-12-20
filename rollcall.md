@@ -64,8 +64,9 @@ Edem Ikurekong ....
 
 * Zainy Shafiq
    * Email: shafiqz@kean.edu
-   * Website: http://eve.kean.edu/~shafiqz/WebClientProgramming/bakery/
-   
+   * Website: file:///C:/Users/zainy/OneDrive/Desktop/Professional%20Folder/index.html
+   * Website: file:///C:/Users/zainy/OneDrive/Desktop/FP/index.html
+   * Website: file:///C:/Users/zainy/OneDrive/Desktop/bakery/index.html
 Christina Bobyack
    Email: bobyackc@kean.edu
    first website: http://eve.kean.edu/~bobyackc/TECH3740/Christina.html
